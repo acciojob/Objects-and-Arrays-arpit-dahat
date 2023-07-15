@@ -9,10 +9,12 @@ let team = players;
 
 let team1 = ["John", "Bob", "Alice", "Poppy"]
 
-const cap1 = {
-	name: "Jhon Doe",
-	age: 80,
-};
+// const cap1 = {
+// 	name: "Jhon Doe",
+// 	age: 80,
+// };
+
+let cap1 = person;
 
 
 // Write your code here, make sure the name of variables is exactly same as mentioned in the problem statement
