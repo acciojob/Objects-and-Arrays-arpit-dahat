@@ -5,11 +5,13 @@ const person = {
   age: 80,
 };
 
-	const team = players;
-		console.log(team);
-		const team1 = players;
-		const cap1 = person();
-	console.log(cap1);
+let team = players;
+console.log(team);
+let team1 = players;
+console.log(team1);
+let cap1 = person;
+console.log(person);
+
 // Write your code here, make sure the name of variables is exactly same as mentioned in the problem statement
 
 window.players = players;
